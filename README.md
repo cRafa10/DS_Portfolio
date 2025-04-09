@@ -22,11 +22,11 @@ Data Cleaning → EDA → Modeling → Evaluation → Visualization → Business
 
 - **VGG & Residual Neural Network Models**  
   VGG neural network model and a residual neural network models feeding a CIFAR-10 dataset. End goal was to let my program be able to identify the content of the images that were given and to classify them into related groups.
-  [Jupyter Notebook]([https://github.com/yourusername/churn-prediction](https://github.com/cRafa10/DS_Portfolio/blob/main/Final_Project_DataScience%26ML.ipynb))
+  [Jupyter Notebook](https://github.com/cRafa10/DS_Portfolio/blob/main/Final_Project_DataScience%26ML.ipynb)
 
 - **UK Bank Business Dashboard**  
   Created an interactive dashboard tracking trends over time using Tableau  
-  [Tableau Public Link]([https://public.tableau.com/your-link](https://public.tableau.com/app/profile/carlos.lopez7092/viz/UKBank-Dashboard_17439831318620/Dashboard))
+  [Tableau Public Link](https://public.tableau.com/app/profile/carlos.lopez7092/viz/UKBank-Dashboard_17439831318620/Dashboard)
 
 ## 📬 Let’s Connect
 
