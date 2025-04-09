@@ -32,7 +32,7 @@ Data Cleaning → EDA → Modeling → Evaluation → Visualization → Business
 
 If you like what you see or want to chat data, feel free to connect:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/carlos-lopez-225140164/))
+- [LinkedIn](https://www.linkedin.com/in/carlos-lopez-225140164/)
 - Email: carlos.rafalopez99@gmail.com
 
 ---
